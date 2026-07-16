@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1784233872 source:c:\”чЄба c++\c-\lesson_4\main.cpp
+	<iostream>
+	"mathec.h"
+
+1784234937 c:\”чЄба c++\c-\lesson_4\mathec.h
+
+1784233895 source:c:\”чЄба c++\c-\lesson_4\mathec.cpp
+	<iostream>
+	<filename>
+	"filename"
+
