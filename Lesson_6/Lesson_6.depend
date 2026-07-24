@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1784910991 source:c:\”чЄба c++\c-\lesson_6\main.cpp
+	<iostream>
+	<cstdint>
+	<iomanip>
+
+1784910439 source:c:\”чЄба c++\c-\lesson_6\del.cpp
+	<iostream>
+
+1784910506 source:c:\”чЄба c++\c-\lesson_6\exs.cpp
+	<iostream>
+	<iomanip>
+
+1784910991 source:c:\”чЄба c++\c-\lesson_6\besk.cpp
+	<iostream>
+	<cmath>
+
+1784911191 source:c:\”чЄба c++\c-\lesson_6\if_else.cpp
+	<iostream>
+	<cstdlib>
+
