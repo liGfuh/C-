@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1785252083 source:c:\”чЄба c++\c-\lesson_7\char(ed).cpp
+	<iostream>
+
+1785253062 source:c:\”чЄба c++\c-\lesson_7\static_cats_working.cpp
+	<iostream>
+	<iomanip>
+
+1785257756 source:c:\”чЄба c++\c-\lesson_7\escape.cpp
+	<iostream>
+
+1785258467 source:c:\”чЄба c++\c-\lesson_7\suffix.cpp
+	<iostream>
+
+1785259734 source:c:\”чЄба c++\c-\lesson_7\numbers.cpp
+	<iostream>
+
+1785263718 source:c:\”чЄба c++\c-\lesson_7\const.cpp
+	<iostream>
+
+1785264307 source:c:\”чЄба c++\c-\lesson_7\constant.h
+
+1785265212 source:c:\”чЄба c++\c-\lesson_7\test.cpp
+	<iostream>
+	<cstdint>
+	"constants.h"
+
+1785264307 c:\”чЄба c++\c-\lesson_7\constant.h
+
+1785265028 source:c:\”чЄба c++\c-\lesson_7\constants.h
+
+1785265028 c:\”чЄба c++\c-\lesson_7\constants.h
+
