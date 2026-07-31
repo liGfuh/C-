@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1785510886 source:c:\”чЄба c++\c-\lesson_8\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1785511827 source:c:\”чЄба c++\c-\lesson_8\uno_bin.cpp
+	<iostream>
+
+1785519530 source:c:\”чЄба c++\c-\lesson_8\remaind.cpp
+	<iostream>
+
+1785524079 source:c:\”чЄба c++\c-\lesson_8\sotta.cpp
+	<iostream>
+	<iomanip>
+
