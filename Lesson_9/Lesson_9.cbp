@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lesson_9" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw32" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lesson_9" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lesson_9" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+		</Build>
+		<Unit filename="comparison.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="epsilonnumber.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="operat.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

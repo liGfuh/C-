@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1785690057 source:c:\”чЄба c++\c-\lesson_9\comparison.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1785692189 source:c:\”чЄба c++\c-\lesson_9\epsilonnumber.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1785692791 source:c:\”чЄба c++\c-\lesson_9\operat.cpp
+	<iostream>
+
