@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1786189621 source:c:\”чЄба c++\c-\lesson_12\bitmask.cpp
+	<iostream>
+	<bitset>
+	<iomanip>
+
+1786190293 source:c:\”чЄба c++\c-\lesson_12\bit_test.cpp
+	<iostream>
+	<bitset>
+
