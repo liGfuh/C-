@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1786453993 source:c:\”чЄба c++\c-\lesson_14\doo.cpp
+	<iostream>
+
+1786454018 source:c:\”чЄба c++\c-\lesson_14\main.cpp
+	<iostream>
+
+1786459248 source:c:\”чЄба c++\c-\lesson_14\unsi.cpp
+	<iostream>
+	<typeinfo>
+
