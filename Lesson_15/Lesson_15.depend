@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1786796840 source:c:\”чЄба c++\c-\lesson_15\main.cpp
+	<iostream>
+	<string>
+
+1786798678 source:c:\”чЄба c++\c-\lesson_15\line.cpp
+	<iostream>
+	<string>
+
+1786799417 source:c:\”чЄба c++\c-\lesson_15\dline.cpp
+	<iostream>
+	<string>
+
+1786799821 source:c:\”чЄба c++\c-\lesson_15\test.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1786802179 source:c:\”чЄба c++\c-\lesson_15\enum.cpp
+	<iostream>
+
+1786808663 source:c:\”чЄба c++\c-\lesson_15\class_enum.cpp
+	<iostream>
+
+1786808745 source:c:\”чЄба c++\c-\lesson_15\typedef_type_alia.cpp
+	<iostream>
+

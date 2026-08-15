@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lesson_15" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw32" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lesson_15" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lesson_15" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+		</Build>
+		<Unit filename="Line.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="class_enum.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="dline.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="enum.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="test.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="typedef_type_alia.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
