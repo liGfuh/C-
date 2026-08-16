@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1786911783 source:c:\”чЄба c++\c-\lesson_16\main.cpp
+	<iostream>
+	<string>
+	<cstdint>
+	<windows.h>
+
+1786914443 source:c:\”чЄба c++\c-\lesson_16\cait.cpp
+	<iostream>
+
+1786914537 source:c:\”чЄба c++\c-\lesson_16\xron.cpp
+	<iostream>
+
