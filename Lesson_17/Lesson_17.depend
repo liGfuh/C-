@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1787148157 source:c:\”чЄба c++\c-\lesson_17\main.cpp
+	<iostream>
+	<typeinfo>
+
+1787149539 source:c:\”чЄба c++\c-\lesson_17\test.cpp
+	<iostream>
+	<string>
+
+1787156697 source:c:\”чЄба c++\c-\lesson_17\cp.cpp
+	<iostream>
+	<cstdlib>
+
+1787157450 source:c:\”чЄба c++\c-\lesson_17\calc.cpp
+	<iostream>
+
