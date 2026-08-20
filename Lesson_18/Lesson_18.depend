@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1787252488 source:c:\”чЄба c++\c-\lesson_18\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+
+1787252486 source:c:\”чЄба c++\c-\lesson_18\while.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+
+1787253505 source:c:\”чЄба c++\c-\lesson_18\do_while.cpp
+	<iostream>
+	<windows.h>
+
