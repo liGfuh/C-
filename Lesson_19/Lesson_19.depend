@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1787317105 source:c:\”чЄба c++\c-\lesson_19\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1787317609 source:c:\”чЄба c++\c-\lesson_19\mers.cpp
+	<iostream>
+	<random>
+	<windows.h>
+
+1787322976 source:c:\”чЄба c++\c-\lesson_19\cout_error.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<windows.h>
+
